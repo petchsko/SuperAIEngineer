@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Dracula",    
+    "python.pythonPath": "venv/bin/python",
+    "python.linting.pylintPath": "venv/bin/pylint"
+
+}
